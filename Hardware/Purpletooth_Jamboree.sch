@@ -23216,7 +23216,7 @@ This is the mechanical footprint for a #4 phillips button head screw. Use the ke
 <description>Power and data ports</description>
 <plain>
 <text x="172.72" y="7.62" size="3.81" layer="94">M. Hord</text>
-<text x="239.014" y="6.35" size="3.81" layer="94">01</text>
+<text x="239.014" y="6.35" size="3.81" layer="94">10</text>
 </plain>
 <instances>
 <instance part="U1" gate=".POWER" x="175.26" y="83.82"/>
