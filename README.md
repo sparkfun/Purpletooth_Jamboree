@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-Purpletooth_Jambot
-==================
-
-Bluetooth audio interface board
-=======
 Purpletooth Jamboree Development Board
 ==================
 
@@ -19,6 +13,7 @@ Design files and firmware files for the [Purpletooth Jamboree Development Board]
 Repository Contents
 -------------------
 
+* **/fritzing** - Fritzing components for this board
 * **/hardware** - Eagle PCB layout files
 * **/Production Files** - Files to support SparkFun production
 
@@ -28,4 +23,3 @@ License Information
 All contents of this repository are released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
 
 Authors: Mike Hord @ SparkFun Electonics
->>>>>>> d110e68d0a0748c0bf633fa8ab3609a1b90f45ba
