@@ -11,8 +11,8 @@ Design files and firmware files for the [Purpletooth Jamboree Development Board]
 Repository Contents
 -------------------
 
-* **/fritzing** - Fritzing components for this board
-* **/hardware** - Eagle PCB layout files
+* **/Fritzing** - Fritzing components for this board
+* **/Hardware** - Eagle PCB layout files
 * **/Libraries** - Library files for various platforms
 * **/Production** - Files to support SparkFun production
 
